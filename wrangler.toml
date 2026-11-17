@@ -5,7 +5,7 @@ compatibility_date = "2024-07-24"
 compatibility_flags = ["nodejs_compat"]
 
 kv_namespaces = [
-  { binding = "SUBLINK_KV", id = "${SUBLINK_KV_ID}" }
+  { binding = "SUBLINK_KV", id = "ba57542a5ea246b196f1b133151bfba8" }
 ]
 
 [assets]
